@@ -52,6 +52,9 @@ induction-motor-fault-detection/
 │  
 ├── simulink_model/  
 │   └── induction_motor_digital_twin.slx  
+│   └── extdata.m  
+│   └── induction_motor_digital_twin.slx.r2018a
+│   └── sim_data_healthy.csv
 │  
 ├── hardware/  
 │   └── Vibration Signal Conditioning Board KICAD/  
@@ -61,9 +64,6 @@ induction-motor-fault-detection/
 │       ├── Vibration Signal Conditioning Board.kicad_prl  
 │       ├── New_Library.kicad_sym  
 │       └── backups/  
-│  
-├── esp32/  
-│   └── accelerometer_data_logger.ino  
 │  
 ├── requirements.txt  
 └── README.md  
