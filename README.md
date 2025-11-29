@@ -135,15 +135,9 @@ python src/realtime_inference.py
 
 ---
 
-## 📄 License
-
-Licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Kareem Hussein**  
-Electrical Engineering | Predictive Maintenance & ML  
+Electrical Engineering | University of Debrecen
 GitHub: https://github.com/kemogamd  
 Email: khaledokareem@gmail.com
